@@ -1,4 +1,4 @@
-# Postman collections
+# Postman Collections
 - A collection is a folder that stores all the requests related to an API or they are somehow related to one another.
 
 - Variable:
