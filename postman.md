@@ -10,9 +10,9 @@
 # Query Parameters
 - can be optional or mandatory (as specified by the API documentation)
 
-# Path Parameters
+# Path Variables
 - always mandatory if the endpoint mentions them
-- the notation for path parameter is :variableName (don't forget the colon)
-- path parameters are just placeholders
-- the name of the path parameters are not being sent with the request
-- you can have both query and path parameters
+- the notation for path variable is :variableName (don't forget the colon)
+- path variables are just placeholders
+- the name of the path variables are not being sent with the request
+- you can have both query parameters and path variables 
