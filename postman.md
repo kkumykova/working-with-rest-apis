@@ -7,4 +7,12 @@
   - initial value - important for sharing; can/should be overwritten, replaced with a placeholder when sharing sensitive data.
   - collection variables are unresolved if the request is not saved in the same collection where the variable is defined.
 
+# Query Parameters
+- can be optional or mandatory (as specified by the API documentation)
 
+# Path Parameters
+- always mandatory if the endpoint mentions them
+- the notation for path parameter is :variableName (don't forget the colon)
+- path parameters are just placeholders
+- the name of the path parameters are not being sent with the request
+- you can have both query and path parameters
