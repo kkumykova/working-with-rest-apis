@@ -16,3 +16,8 @@
 - path variables are just placeholders
 - the name of the path variables are not being sent with the request
 - you can have both query parameters and path variables 
+
+# Managing environments
+
+**An environment is a set of variables** you can use in your Postman requests. You can use environments to group related sets of values together and manage access to shared Postman data if you are working as part of a team. ([Source](https://learning.postman.com/docs/sending-requests/managing-environments/#creating-environments))
+
