@@ -45,17 +45,22 @@ Conceptual Material Consists of:
   - Web APIs
       - Registration
       - Get an app key
+      - Making one or two HTTP requests that return a response
+      - Typically not something that requires complex authorisation (like three-legged OAuth)
       - Authorisation
       - Doing something simple
+
   - Platform APIs
       - Downloading the SDK (softwear development kit)
       - Setting up your IDE
       - Doing something simple
-  
-- Tutorials
+        
+- Tutorials - have the same structure as Getting Started is because Getting Started _is_ a tutorial!
+  - 3 to 5 tutorials are usually enough
   - Common Tasks
-  - Step by Step
-  - Screenshots, if they make sense
+  - Step-by-step instructions
+  - Sample HTTP requests or code they can copy and paste
+  - Screenshots, if they make sense - usually are not needed for Web APIs; only if the tutorial involves doing something with the developer portal.
   - Start with basic tasks, move to advanced
 
 - Sample Code
