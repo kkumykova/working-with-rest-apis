@@ -25,12 +25,22 @@ Conceptual Material Consists of:
       - This usually isn't included
       - However, for some APIs, you need a separate authentication server. 
 
-
   - Key Concepts
+    - APIs typically have important concepts that should be described.
+    - This usually depends on the "domain" - what does the API do?
+    - Write a paragraph or two for each concept. Examples:
+      - Learning Management System: Roles, classes, grades, etc.
+      - Online Banking: Accounts, transactions, etc.
+
   - Explain Workflow: what are the most common steps to do common tasks.
+    
   - Diagrams - a good place for visual information: architechture diagrams and/or data model diagrams
+    - Architecture Diagrams: how do the pieces fit together?
+    - Workflow Diagrams: what happens when?
+    Get diagrams from the development team.
     
 - Getting Started
+  -  Getting Started Section [Example](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/quickstart.htm) 
   - Lead people through a simple task
   - Web APIs
       - Registration
