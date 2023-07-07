@@ -14,7 +14,18 @@
 Conceptual Material Consists of:
 - Overview
   - Explain **why** to use the API
+    The overview must explain why you would use it
+    - Describe key features
+    - Provide a few use cases
+
   - List Requirentments for the API
+    - Provide a list of what is required.
+    - Get this list from the development team.
+    - For Web APIs:
+      - This usually isn't included
+      - However, for some APIs, you need a separate authentication server. 
+
+
   - Key Concepts
   - Explain Workflow: what are the most common steps to do common tasks.
   - Diagrams - a good place for visual information: architechture diagrams and/or data model diagrams
